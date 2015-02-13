@@ -1,0 +1,51 @@
+/* I like this formatting a lot, so I kept it.
+   Same formatting as it was in War and Peace before alteration
+   Original document available at:
+   http://www.gutenberg.org/files/2600/2600-h/2600-h.htm */
+pre{
+    font-style: italic;
+    font-size: 90%;
+    margin-left: 10%;
+}
+body {
+    background-color: #FFE680;
+    margin:5%;
+    text-align:justify
+}
+H1,H2,H3,H4,H5,H6 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-color: "#006A6A";
+}
+p {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    text-indent: 2em;
+    font-family: "Times New Roman", Times, serif;
+    color: #00003D;
+}
+blockquote {
+    font-size: 95%;
+    font-style: italic;
+}
+div.fig {
+    display:block;
+    margin:0 auto;
+    text-align:center;
+
+}
+/* See README for credit */
+img{
+    border: #2e1a12 solid 40px;
+      -moz-border-image:url(wood.png) 200 stretch;
+      border-image:url(wood.png) 200 stretch;
+      -webkit-box-shadow: 1px 1px 10px #000000;
+     -moz-box-shadow: 1px 1px 10px #000000;
+      box-shadow: 1px 1px 10px #000000;
+}
+/* Not sure if this works. I can't see the alts */
+img.alt{
+    text-align: center;
+    text-color: "#006A6A";
+}
