@@ -50,6 +50,7 @@ img {
 }
 
 #content .sTitle {
+    background: linear-gradient(pink, #A6A6A6);
     background: -webkit-linear-gradient(pink, #A6A6A6);
     text-align: center;
     font-size: 20pt;
@@ -71,10 +72,12 @@ img {
 }
 
 li:nth-child(even) {
+    background: linear-gradient(pink, #A6A6A6);
     background: -webkit-linear-gradient(pink, #A6A6A6);
 }
 
 li:nth-child(odd) {
+    background: linear-gradient(#A6A6A6, pink);
     background: -webkit-linear-gradient(#A6A6A6, pink);
 }
 
