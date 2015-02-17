@@ -1,0 +1,74 @@
+/* I like this formatting a lot, so I kept it.
+   Same formatting as it was in War and Peace before alteration
+   Original document available at:
+   http://www.gutenberg.org/files/2600/2600-h/2600-h.htm
+*/
+pre{
+    font-style: italic;
+    font-size: 90%;
+    margin-left: 10%;
+}
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-color: "#006A6A";
+}
+body {
+    background-color: #FFFFFF;
+    margin:5%;
+    text-align:justify
+}
+p {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    text-indent: 2em;
+    font-family: "Times New Roman", Times, serif;
+    color: #00003D;
+}
+blockquote {
+    font-size: 95%;
+    font-style: italic;
+}
+div.fig {
+    display:block;
+    margin:0 auto;
+    text-align:center;
+
+}
+/* See README for credit */
+img{
+    color: #697c52;
+    font-style: italic;
+
+    border: #2e1a12 solid 40px;
+      -moz-border-image:url(wood.png) 200 stretch;
+      border-image:url(wood.png) 200 stretch;
+      -webkit-box-shadow: 1px 1px 10px #000000;
+     -moz-box-shadow: 1px 1px 10px #000000;
+      box-shadow: 1px 1px 10px #000000;
+
+    /* theme the alts */
+    color: #697c52;
+    font-style: italic;
+}
+/* Used the same style as initially given. */
+img.floatleft {
+    float: left;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+img.floatright {
+    float: right;
+    margin-left: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+img.clearcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em
+}
