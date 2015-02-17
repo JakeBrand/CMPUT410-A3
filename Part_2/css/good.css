@@ -1,3 +1,7 @@
+body {
+    background-color: #CAD4D4;
+    /*margin: 1%;*/
+}
 #headboard {
     border: solid 1px black;
     background-color: pink;
@@ -18,6 +22,25 @@
     background-color: orange;
 }
 
+#content .sect {
+    /* optional */
+    border: solid 1px black;
+    height: 100%;
+    width: 100%;
+}
+
+#content .threeQuart {
+    background-color: blue;
+    width: 75%;
+    float: left;
+}
+
+#content .oneQuart {
+    background-color: red;
+    width: 25%;
+    float: left;
+}
+
 #sidebar {
     border: solid 1px black;
     float:left;
@@ -27,24 +50,18 @@
     background-color: grey;
 }
 
+#sidebar .title{
+    background-color: pink;
+    font-style: italic;
+    font-size: 18pt;
+}
+
+#sidebar .point{
+    background-color: red;
+}
+
 #baseboard {
     border: solid 1px black;
     clear: both;
     background-color: pink;
-}
-
-.sect {
-
-}
-
-.threeQuart {
-    background-color: blue;
-    width: 75%;
-    float: left;
-}
-
-.oneQuart {
-    background-color: red;
-    width: 25%;
-    float: left;
 }
