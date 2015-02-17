@@ -1,0 +1,33 @@
+Part 2 README
+
+You’re going to make your own HTML page and you’re going to make 2 CSS themes for it. Emulate the 2nd and 3rd design from this comic: http://theoatmeal.com/comics/design_hell, but instead make a 1 webpage that advertises you to employers.
+
+Include at least 3 sections:
+
+Who you are + photo
+Your professional history
+What you can do for a potential employer/what you have to offer
+Then a sidebar of important points they should know about you.
+
+Make 1 ugly CSS and 1 good CSS just like the design_hell comic.
+
+You should make a page good enough you’d actually use it as your homepage.
+
+Requirements
+
+[X] 4 sections: who you are, your history, what you have to offer, important points about you
+[X] 1 Ugly CSS theme
+[X] 1 good CSS theme
+[X] 2 HTML files, each with the same content but different CSS
+[X] your photo (try to keep it professional)
+[ ] Take 2 screenshots of firefox running all of your pages that demonstrates your theme.
+
+Colaborators:
+
+Credit:
+Layout inspired from http://theoatmeal.com/comics/design_hell
+lanugages_long.jpg downloaded from http://pythonthusiast.pythonblogs.com/230_pythonthusiast/resources/programming-languages.jpg.html then modified to fit this page's header
+matrix.jpg downloaded from http://www.huffingtonpost.com/gadadhara-pandit-dasa/the-matrix-through-hinduism_b_1925721.html
+nyan downloaded from http://cdn2.scratch.mit.edu/get_image/gallery/661322_170x100.png?v=1417629667.73
+cat downloaded from http://cdn2.thegloss.com/wp-content/uploads/2014/08/shocked-cat.jpg
+keyboard downloaded from http://2.bp.blogspot.com/-4-MgtGWD1J8/Uukg9Z819vI/AAAAAAAABdg/5SXCm_HQGiY/s1600/matias-quiet-pro-keyboards-2-large.jpg

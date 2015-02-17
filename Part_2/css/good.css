@@ -11,6 +11,22 @@ img {
     border-radius: 10px;
 }
 
+#imgHead{
+    content:url("../imgs/languages_long.jpg");
+}
+
+#img1 {
+    content:url("../imgs/mexico.jpg");
+}
+
+#img2 {
+    content:url("../imgs/professional.jpg");
+}
+
+#img3 {
+    content:url("../imgs/matrix.jpg");
+}
+
 #headboard {
     clear: both;
 }
